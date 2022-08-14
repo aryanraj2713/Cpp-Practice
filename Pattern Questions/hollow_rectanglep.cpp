@@ -15,7 +15,7 @@ int main()
             }
             else if (j==1 || j==col)
             {
-                cout<<"*";
+                cout<<"* ";
             }
             else{
                 cout<<" ";

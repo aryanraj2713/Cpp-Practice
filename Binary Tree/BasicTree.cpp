@@ -2,6 +2,7 @@
 using namespace std;
 
 class Node{
+    public:
     int data ;
     struct Node* left ;
     struct Node* right ;
@@ -12,7 +13,7 @@ class Node{
         left = NULL ;
         right = NULL ;
     }
-}
+};
 
 int main()
 {   
@@ -23,5 +24,9 @@ int main()
     root -> left -> left = new Node(5);
     root -> left -> right = new Node (6);
 
+    
+    //int a ;
+    //a = root -> left -> right;
+    //cout << root->left ;
     return 0;
 }

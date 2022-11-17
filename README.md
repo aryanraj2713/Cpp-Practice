@@ -1,5 +1,11 @@
 # Cpp-Practice
 ```
+Folder PATH listing
+
+C:.
+│   LICENSE
+│   README.md
+│
 ├───.vscode
 │       c_cpp_properties.json
 │       settings.json
@@ -19,7 +25,6 @@
 │
 ├───Binary Tree
 │       BasicTree.cpp
-│       BasicTree.exe
 │
 ├───CodeChef
 │       Batterylow.cpp
@@ -31,6 +36,11 @@
 │           Exercise – 1 & 2.pdf
 │           Question_3.cpp
 │           Question_4.cpp
+│
+├───cppSTL
+│       arraySTL.cpp
+│       STLarrop.cpp
+│       vectorStl.cpp
 │
 ├───Functions
 │       add_usingfun.cpp
@@ -62,18 +72,16 @@
 │       class_template.cpp
 │       class_undergrad.cpp
 │       Constructor.cpp
-│       Constructor.exe
 │       Cons_overloading.cpp
+│       customthrowCatch.cpp
 │       exceptionhandle.cpp
-│       exceptionhandle.exe
 │       function_template.cpp
-│       function_template.exe
 │       MultipleExceptions.cpp
 │       palindrome_funOverload.cpp
 │       Stack_Template.cpp
-│       Stack_Template.exe
 │       Swapping_funOverload.cpp
 │       tempCodeRunnerFile.cpp
+│       try_Catcherror.cpp
 │
 ├───Pattern Questions
 │       180DegRot_halfpyr.cpp
@@ -94,5 +102,4 @@
         pointer_2.cpp
         prime_ornt.cpp
         reversing_num.cpp
-        
 ```

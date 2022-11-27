@@ -2,18 +2,27 @@
 ```
 Folder PATH listing
 
-C:.
 │   LICENSE
 │   README.md
 │
 ├───.vscode
 │       c_cpp_properties.json
 │       settings.json
+│       tasks.json
 │
 ├───Arrays
 │       BasicArray.cpp
 │       MaxMin_array.cpp
 │       UserArray.cpp
+│
+├───Asm codes
+│       16bit_sub.asm
+│       16_bit_add.asm
+│       16_bit_mul.asm
+│       8bit_add.asm
+│       ones_compliment.asm
+│       swapping.asm
+│       twos_compliment.asm
 │
 ├───Basic
 │       even_odd.cpp
@@ -25,12 +34,15 @@ C:.
 │
 ├───Binary Tree
 │       BasicTree.cpp
+│       Inorder.cpp
+│       post_order.cpp
+│       Pre_order.cpp
 │
 ├───CodeChef
 │       Batterylow.cpp
 │       CabProblem.cpp
 │       ChefAge.cpp
-│
+│       
 ├───College Assignments
 │   └───Week 1 OODP
 │           Exercise – 1 & 2.pdf
@@ -98,6 +110,7 @@ C:.
 │
 └───Some basic important Questions
         Armstrongnos.cpp
+        elab_trick.cpp
         pointer.cpp
         pointer_2.cpp
         prime_ornt.cpp

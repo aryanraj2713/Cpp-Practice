@@ -18,6 +18,15 @@ int main()
     int at_op = arr.at(2);
     cout << "index 2 = " << at_op << endl ;
 
+    //empty or not(returns Boolean)
+    cout << "is_empty-->" << arr.empty() << endl ;
     
+
+    // front_last operation
+    cout << "front element = " << arr.front() << endl ;
+    
+    cout << "last element = " << arr.back() << endl ;
+
+
     return 0;
 }

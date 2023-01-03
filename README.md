@@ -1,7 +1,7 @@
 # Cpp-Practice
 ```
-Folder PATH listing
-
+E:.
+│   file_tree_readme.txt
 │   LICENSE
 │   README.md
 │
@@ -42,21 +42,30 @@ Folder PATH listing
 │       Batterylow.cpp
 │       CabProblem.cpp
 │       ChefAge.cpp
-│       
-├───College Assignments
-│   └───Week 1 OODP
-│           Exercise – 1 & 2.pdf
-│           Question_3.cpp
-│           Question_4.cpp
 │
-├───cppSTL
-│       arraySTL.cpp
-│       STLarrop.cpp
-│       vectorStl.cpp
+├───File_handling
+│       Aryan_raj.txt
+│       reading_file.cpp
+│       writing_file.cpp
 │
 ├───Functions
 │       add_usingfun.cpp
+│       fibo_recursion.cpp
+│       function_primrcheck.cpp
 │       primenos_bw2nos.cpp
+│
+├───gfg_practice
+│       equal_array.cpp
+│       Potd1.cpp
+│       Potd2.cpp
+│       Potd3.cpp
+│       Potd4.cpp
+│       Potd5.cpp
+│       Potd6.cpp
+│       Potd7.cpp
+│       Potd8.cpp
+│       Potd9.cpp
+│       second_largest.cpp
 │
 ├───Linked Lists
 │       linked_basics.cpp
@@ -77,6 +86,7 @@ Folder PATH listing
 │       misc_op.png
 │       operators.png
 │       ppp.png
+│       stl.png
 │
 ├───OOP
 │       class_area.cpp
@@ -91,28 +101,15 @@ Folder PATH listing
 │       MultipleExceptions.cpp
 │       palindrome_funOverload.cpp
 │       Stack_Template.cpp
-│       Swapping_funOverload.cpp
-│       tempCodeRunnerFile.cpp
-│       try_Catcherror.cpp
 │
-├───Pattern Questions
-│       180DegRot_halfpyr.cpp
-│       butterfly.cpp
-│       floydtriangle.cpp
-│       hollow_rectanglep.cpp
-│       invertedhalf_pyramid.cpp
-│       Num_halfpyrd.cpp
-│       rectangle_p.cpp
-│
-├───Searching
-│       binarysearch.cpp
-│       linearSearch.cpp
-│
-└───Some basic important Questions
-        Armstrongnos.cpp
-        elab_trick.cpp
-        pointer.cpp
-        pointer_2.cpp
-        prime_ornt.cpp
-        reversing_num.cpp
+└───STL
+    │   array1.cpp
+    │   array1.exe
+    │   vector.cpp
+    │   vector.exe
+    │
+    └───cppSTL
+            arraySTL.cpp
+            STLarrop.cpp
+            vectorStl.cpp
 ```

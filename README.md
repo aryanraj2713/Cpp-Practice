@@ -1,6 +1,3 @@
-# Cpp-Practice
-```
-E:.
 │   file_tree_readme.txt
 │   LICENSE
 │   README.md
@@ -38,6 +35,19 @@ E:.
 │       post_order.cpp
 │       Pre_order.cpp
 │
+├───C-codes
+│       Armstrong.C
+│       aryan.txt
+│       Calculator.C
+│       inchfeet.c
+│       Palindrome.C
+│       passwithreffrence.c
+│       Primenos.C
+│       reading-filehandling.c
+│       structure.c
+│       write.txt
+│       writing-filehandling.c
+│
 ├───CodeChef
 │       Batterylow.cpp
 │       CabProblem.cpp
@@ -57,6 +67,10 @@ E:.
 ├───gfg_practice
 │       equal_array.cpp
 │       Potd1.cpp
+│       Potd10.cpp
+│       Potd11.cpp
+│       Potd12.cpp
+│       Potd13.cpp
 │       Potd2.cpp
 │       Potd3.cpp
 │       Potd4.cpp
@@ -101,7 +115,32 @@ E:.
 │       MultipleExceptions.cpp
 │       palindrome_funOverload.cpp
 │       Stack_Template.cpp
+│       Swapping_funOverload.cpp
+│       tempCodeRunnerFile.cpp
+│       try_Catcherror.cpp
 │
+├───Pattern Questions
+│       180DegRot_halfpyr.cpp
+│       butterfly.cpp
+│       floydtriangle.cpp
+│       hollow_rectanglep.cpp
+│       invertedhalf_pyramid.cpp
+│       Num_halfpyrd.cpp
+│       rectangle_p.cpp
+│
+├───Searching
+│       binarysearch.cpp
+│       linearSearch.cpp
+│
+├───Some basic important Questions
+│       Armstrongnos.cpp
+│       elab_trick.cpp
+│       elab_trick2.cpp
+│       pointer.cpp
+│       pointer_2.cpp
+│       prime_ornt.cpp
+│       reversing_num.cpp
+│       
 └───STL
     │   array1.cpp
     │   array1.exe
@@ -112,4 +151,3 @@ E:.
             arraySTL.cpp
             STLarrop.cpp
             vectorStl.cpp
-```
